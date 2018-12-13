@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Linq;
 
-namespace ConsoleApp4
+namespace DataEntity
 {
     class Program
     {
         static void Main(string[] args)
         {
-            using (var context = new SportContext())
+            using (AllLive sqlContext = new AllLive())
             {
-                var result = context.Players.ToList();
+                var result = sqlContext.People.ToList();
             }
         }
     }

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27703.2042
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{59593826-7544-46E0-B60F-DA3AC3C901B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEntity", "ConsoleApp4\DataEntity.csproj", "{59593826-7544-46E0-B60F-DA3AC3C901B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

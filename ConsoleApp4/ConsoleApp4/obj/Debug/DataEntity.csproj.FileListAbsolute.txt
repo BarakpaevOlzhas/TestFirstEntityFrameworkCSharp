@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\obj\Debug\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\User\Desktop\TestFirstEntityFrameworkCSharp-master\ConsoleApp4\ConsoleApp4\obj\Debug\DataEntity.csprojResolveAssemblyReference.cache

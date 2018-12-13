@@ -1,16 +1,15 @@
 ﻿using System.Data.Entity;
 
-namespace ConsoleApp4
+namespace DataEntity
 {
-    public class SportContext : DbContext
+    public class AllLive : DbContext
     {
-        public SportContext()
+        public AllLive()
             : base("name=SportContext")
         {
-
         }
 
-        public DbSet<Team> Teams { set; get; }
-        public DbSet<Player> Players {set;get;}
+        public DbSet<Car> Cars { set; get; }
+        public DbSet<Person> People { set;get;}
     }   
 }
